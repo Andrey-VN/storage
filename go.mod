@@ -1,4 +1,4 @@
-module github.com/Andrey-VN/storage
+module github.com/Andrey-VN/storage/v2
 
 go 1.20
 
