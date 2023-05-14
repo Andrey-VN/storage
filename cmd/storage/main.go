@@ -22,7 +22,7 @@ func main() {
 		log.Fatal(err)
 	}
 
-	fmt.Println(st.Files)
+	// fmt.Println(st.)
 
 	fmt.Println("Item", restoredFile.String())
 }
